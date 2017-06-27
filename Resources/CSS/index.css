@@ -1,0 +1,33 @@
+body {
+  font: Verdana;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px:
+  color: white;
+}
+
+#comingsoon {
+  color: aquamarine;
+  font-size: 16px:
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+#trademark {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
+}
